@@ -2,10 +2,7 @@
 
 🚀 **Frontend Developer | React • Next.js • Modern UI**
 
-Self-taught Front-End Developer skilled in building responsive and user-friendly web applications. Proficient in React.js, Next.js,
-JavaScript, TypeScript, HTML, CSS, and Tailwind CSS, with experience in component-based architecture, state management,
-and API integration. Passionate about clean, maintainable code, performance optimization, and staying current with modern
-web technologies.
+I’m a passionate Frontend Developer focused on creating scalable, responsive web applications using modern technologies. I enjoy turning complex ideas into clean, efficient, and user-friendly digital experiences.
 
 ---
 
